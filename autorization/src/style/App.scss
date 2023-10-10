@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+body {
+  background: #EDEDED;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.imeg {
+  margin-left: 48%;
+  width: 60px;
+  height: 60px;
+  margin-top: 110px;
+  margin-bottom: 30px;
+}
+
+
+.text {
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: linear-gradient(0deg, #202529, #202529),
+    linear-gradient(0deg, #3FBC71, #3FBC71),
+    linear-gradient(0deg, #7B8186, #7B8186);
+
+}
+.texttitle {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  color: #7B8186;
+}
+
+.textenter {
+  cursor: pointer;
+  color: #3FBC71;
+  text-decoration: underline;
+}
+.App {
+  width: 360px;
+  height: 440px;
+  margin: 0 auto;
+  box-shadow: 0px 10px 20px 0px #0000001A;
+  text-align: center;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.FormTitle {
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #202529;
+  padding-top: 60px;
+  padding-bottom: 15px;
+}
